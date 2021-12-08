@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.My project (6).iml
+# Datasource local storage ignored files
+/../../../../../../../:\Unity Projects\Lab_2\My project (6)\.idea\.idea.My project (6)\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
